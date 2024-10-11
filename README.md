@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sameer Javed!
+# 👋 Hello, I'm Sameer Javed
 
 ## 🌟 About Me
 I am a passionate **Data Scientist** and a **Computer Science Student** with a keen interest in leveraging data to uncover insights and drive decision-making. My journey in the tech world has equipped me with a strong foundation in programming, data analysis, and machine learning.
